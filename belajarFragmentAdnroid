@@ -1,0 +1,26 @@
+Belajar fragment Android
+
+
+file reference github/anandaBelajar/belajarFragment
+video reference how to use fragment in android channel cofing with mitch
+
+pada project ini kita akan membuat sebuah main activity yang memiliki 3 fragment dan juga kita bisa mengakses activity lain pada fragment tersebut
+
+1. edit activity_main.xml contoh isinya liat di  github/anandaBelajar/belajarFragment/activity_main.xml
+2. Buat layout baru untuk fragment pertama contohnya liat di  github/anandaBelajar/belajarFragment/fragment_layout.xml
+4. Buat layout baru untuk fragment kedua contohnya liat di  github/anandaBelajar/belajarFragment/fragment2_layout.xml
+4. Buat layout baru untuk fragment ketiga contohnya liat di  github/anandaBelajar/belajarFragment/fragment3_layout.xml
+3. Buat layout untuk activity yang lain contohnya liat di
+github/anandaBelajar/belajarFragment/second_activity_layout.xml
+4. Buat class baru untuk activiy kedua contohnya github/anandaBelajar/belajarFragment/SecondActiviy.java
+5.Edit Androidmanifest.xml tambahkan SecondActiviy contohnya github/anandaBelajar/belajarFragment/AndroidManifest.xml
+6.Edit MainActivity.java contoh github/anandaBelajar/belajarFragment/MainActivity.java
+6.Edit SecondAcivity.java contoh github/anandaBelajar/belajarFragment/SecondAcivity.java
+7. tambahkan class baru untuk fragment adapter contohnya 6.Edit MainActivity.java contoh github/anandaBelajar/belajarFragment/SecondStatepagerAdapter
+7.Buat class untuk rafgemnt pertama contohnya  github/anandaBelajar/belajarFragment/Fragment1.java
+8.Buat class untuk rafgemnt kedua contohnya  github/anandaBelajar/belajarFragment/Fragment2.java
+9.Buat class untuk rafgemnt ketiga contohnya  github/anandaBelajar/belajarFragment/Fragment3.java
+
+
+
+
